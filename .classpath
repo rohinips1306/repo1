@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Tomcat/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/spring1/spring-framework-5.0.0.RELEASE/libs/spring-webmvc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/byte-buddy-1.10.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/hibernate-core-5.5.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/jandex-2.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/jboss-logging-3.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rohini.parasuraman/Desktop/hibernate/hibernatejars/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
